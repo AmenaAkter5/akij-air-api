@@ -14,6 +14,7 @@ const Home = () => {
             <InfoSection />
             <SearchResult />
 
+            {/* components */}
             {/* Countdown
             FilterOptions
             FlightLists
