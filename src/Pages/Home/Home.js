@@ -11,8 +11,8 @@ const Home = () => {
 
 
             {/* Previous */}
-            <InfoSection />
-            <SearchResult />
+            {/* <InfoSection /> */}
+            {/* <SearchResult /> */}
 
             {/* components */}
             {/* Countdown

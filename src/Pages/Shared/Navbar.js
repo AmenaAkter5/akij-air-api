@@ -63,7 +63,6 @@ const Navbar = () => {
                     </div>
 
 
-
                     <div className='flex items-center justify-between gap-4'>
                         <div className={`lg:block ${isOpen ? 'flex-col' : 'hidden'}`}>
                             {navMenuItems2}
